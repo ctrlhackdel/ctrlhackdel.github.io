@@ -1,1 +1,6 @@
-# testing the deployment and see if this wokrs
+---
+title: Test
+layout: home
+---
+
+# testing the waters
